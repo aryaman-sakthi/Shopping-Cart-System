@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Pic">
+    <file>../cart logo.png</file>
+    <file>../../Pictures/scs images/Opening_Background.jpg</file>
+    <file>../../Pictures/greenMain.jpg</file>
+  </qresource>
+</RCC>

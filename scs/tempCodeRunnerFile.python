@@ -1,0 +1,7 @@
+str1 = input('Enter a sentence: ')
+dig=[]
+for i in str1:
+ if i.isdigit() or i.isnumeric():
+    dig.append(i)
+print('List of digits: ', dig) 
+
